@@ -20,7 +20,7 @@ for xml_file in glob.glob('*.xml'):
     shutil.copy(path_to_img, new_path_to_img)
     # soup.select_one('path').text = new_path_to_img
     with open(new_path_to_xml, 'w', encoding='UTF-8') as f:
-        f.write(str(soup).replace(path_to_img, new_path_to_img).replace(old_filename_img, new_img_name))
+        f.write(str(soup).replace(path_to_img, new_path_to_img).replace(old_filename_img, new_file_name))
     print(f'Файл - OK! {path_to_img} -> {new_path_to_img}')
     num += 1
 
