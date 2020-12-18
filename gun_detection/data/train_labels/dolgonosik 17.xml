@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>dolgonosik</folder>
+<filename>dolgonosik 17</filename>
+<path>E:\документы\dolgonosik\images\dolgonosik 17.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>700</width>
+<height>456</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>dolgonosik</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>80</xmin>
+<ymin>59</ymin>
+<xmax>237</xmax>
+<ymax>364</ymax>
+</bndbox>
+</object>
+<object>
+<name>dolgonosik</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>437</xmin>
+<ymin>65</ymin>
+<xmax>665</xmax>
+<ymax>368</ymax>
+</bndbox>
+</object>
+</annotation>
