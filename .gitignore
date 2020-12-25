@@ -1,1 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+tf/
+gun_detection/data/label_map.pbtxt
+gun_detection/data/test_labels.csv
+gun_detection/data/test_labels.record
+gun_detection/data/train_labels.csv
+gun_detection/data/train_labels.record
